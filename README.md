@@ -12,4 +12,4 @@ documentando aqui.
 
 ![Plan de estudios](./assets/plan-de-estudiospng.png)
 
-Fecha de inicio 29/02/24
+Fecha de inicio 29/08/24
