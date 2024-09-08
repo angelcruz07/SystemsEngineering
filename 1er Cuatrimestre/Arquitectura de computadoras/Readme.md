@@ -48,14 +48,14 @@ dispositivos modernos.
 Veamos esto de una mejor manera con
 el siguiente diagrama:
 
-![../files/Como funciona un bite.png]
+![Bits](../files/Como funciona un bite.png)
 
 Una vez entendido los bits podemos
 continuar al siguiente tema.
 
 ## Arquitectura de un Sistema Informático Básico
 
-![../files/Diragrama de componentes.png]
+![Sistema](../files/Diragrama de componentes.png)
 
 ### Analisis del diragrama
 
@@ -66,7 +66,7 @@ el bus de direcciones y el bus de control
 hacia y desde la memoria
 y los dispositivos periféricos.
 
-#### Memorias (RAM y ROM):
+### Memorias (RAM y ROM):
 
 - RAM (Random Access Memory): Almacena datos
   y programas temporalmente mientras el sistema
