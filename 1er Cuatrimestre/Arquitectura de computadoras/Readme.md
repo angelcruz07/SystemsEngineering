@@ -48,14 +48,14 @@ dispositivos modernos.
 Veamos esto de una mejor manera con
 el siguiente diagrama:
 
-![Bits](./files/bits.png)
+![bits](../files/bits.png)
 
 Una vez entendido los bits podemos
 continuar al siguiente tema.
 
 ## Arquitectura de un Sistema Informático Básico
 
-![Sistema](./files/aquitectura-basica.png)
+![Sistema](../files/arquitectura-basica.png)
 
 ### Analisis del diragrama
 
