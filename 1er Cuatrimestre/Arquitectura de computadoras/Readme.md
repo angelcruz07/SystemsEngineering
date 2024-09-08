@@ -48,14 +48,14 @@ dispositivos modernos.
 Veamos esto de una mejor manera con
 el siguiente diagrama:
 
-![[../files/Como funciona un bite.png]]
+![../files/Como funciona un bite.png]
 
 Una vez entendido los bits podemos
 continuar al siguiente tema.
 
 ## Arquitectura de un Sistema Informático Básico
 
-![[../files/Diragrama de componentes.png]]
+![../files/Diragrama de componentes.png]
 
 ### Analisis del diragrama
 
@@ -89,12 +89,12 @@ y los dispositivos periféricos.
   como teclado, ratón, o discos duros,
   conectados a través de los buses.
 
-###### Interacción entre los buses:
+##### Interacción entre los buses:
 
-    - Bus de direcciones: Señala dónde
-      leer o escribir datos en la memoria o en los dispositivos de E/S.
-    - Bus de datos: Transporta los datos entre el microprocesador y los componentes como la RAM o la ROM.
-    - Bus de control: Gestiona las señales que determinan las operaciones que se realizarán en los diferentes componentes.
+- Bus de direcciones: Señala dónde
+  leer o escribir datos en la memoria o en los dispositivos de E/S.
+- Bus de datos: Transporta los datos entre el microprocesador y los componentes como la RAM o la ROM.
+- Bus de control: Gestiona las señales que determinan las operaciones que se realizarán en los diferentes componentes.
 
 ## Cliclos de Reloj, Ciclo maquina
 
