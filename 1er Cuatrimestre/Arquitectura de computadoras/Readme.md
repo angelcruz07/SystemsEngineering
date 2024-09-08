@@ -48,14 +48,14 @@ dispositivos modernos.
 Veamos esto de una mejor manera con
 el siguiente diagrama:
 
-![Bits](../files/Como funciona un bite.png)
+![Bits](./files/bits.png)
 
 Una vez entendido los bits podemos
 continuar al siguiente tema.
 
 ## Arquitectura de un Sistema Informático Básico
 
-![Sistema](../files/Diragrama de componentes.png)
+![Sistema](./files/aquitectura-basica.png)
 
 ### Analisis del diragrama
 
