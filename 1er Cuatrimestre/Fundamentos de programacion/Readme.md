@@ -27,7 +27,7 @@
 - 2.4 Edición, compilación,
   enlazado, corrida de un
   programacion.
-- 2.5 Enunciados de entrada /
+- 2.5 Enunciados de entrada
   salida
 - 2.6 Control del flujo del
   programacion.
