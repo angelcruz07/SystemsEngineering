@@ -1,8 +1,9 @@
 ---
 # Banner
 banner:
-  title: "Le modèle de démarrage ultime dont vous avez besoin pour démarrer votre projet Astro"
-  content: "Astroplate est un modèle de démarrage gratuit construit avec Astro et TailwindCSS, fournissant tout ce dont vous avez besoin pour démarrer votre projet Astro et gagner un temps précieux."
+  title: "Ingeniería en sistemas computacionales"
+  content: "Hola!, Soy un estudiantes de ingeniería en sistemas comptutacionales
+  y e creado este sitio web para compartir mis apuntes y proyectos de la carrera."
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,12 +12,12 @@ banner:
 
 # Features
 features:
-  - title: "Ce qui est inclus dans Astroplate"
+  - title: "¿Cuál es mi motivación ?"
     image: "/images/service-1.png"
-    content: "Astroplate est un modèle de démarrage complet qui inclut tout ce dont vous avez besoin pour démarrer votre projet Astro. Ce qui est inclus dans Astroplate"
+    content: "Una de mis mas grandes motivaciones es poder brindar informacion de utilidad para personas que estan interesadas en la ingeniería o en busca de la carrera profesional que les gustaria estudiar."
     bulletpoints:
-      - "10+ pages pré-construites"
-      - "Score Google Pagespeed de 95+"
+      - "Información utíl"
+      - "Temas de ingeniería"
       - "Construit avec Astro et TailwindCSS pour un style facile et personnalisable"
       - "Entièrement responsive sur tous les appareils"
       - "Optimisé pour le référencement pour de meilleurs classements dans les moteurs de recherche"

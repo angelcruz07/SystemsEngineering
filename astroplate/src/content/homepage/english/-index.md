@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Computer Systems Engineering"
+  content: "Hi!, I am a student of computer systems engineering and I have created this website to share my notes and projects of the career."
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "What's my motivation?"
     image: "/images/service-1.png"
     content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
     bulletpoints:
