@@ -26,7 +26,7 @@ if (disabledLanguages.includes(lang)) {
 ---
 
 <header class={`header z-30 ${settings.sticky_header && "sticky top-0"}`}>
-  <nav class="navbar container">
+  <nav class="container navbar">
     {/* logo */}
     <div class="order-0">
       <Logo />
@@ -35,13 +35,13 @@ if (disabledLanguages.includes(lang)) {
     <input id="nav-toggle" type="checkbox" class="hidden" />
     <label
       for="nav-toggle"
-      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1"
+      class="flex items-center order-3 cursor-pointer lg:hidden text-dark dark:text-white lg:order-1"
     >
-      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+      <svg id="show-button" class="block h-6 fill-current" viewBox="0 0 20 20">
         <title>Menu Open</title>
         <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
       </svg>
-      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+      <svg id="hide-button" class="hidden h-6 fill-current" viewBox="0 0 20 20">
         <title>Menu Close</title>
         <polygon
           points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
@@ -52,13 +52,13 @@ if (disabledLanguages.includes(lang)) {
 
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden w-full pb-6 lg:order-1 lg:flex lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8"
+      class="order-3 hidden w-full pb-6 navbar-nav lg:order-1 lg:flex lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8"
     >
       {
         menu?.main.map((menu: any) => (
           <>
             {menu.hasChildren ? (
-              <li class="nav-item nav-dropdown group relative">
+              <li class="relative nav-item nav-dropdown group">
                 <span
                   class={`nav-link inline-flex items-center ${
                     menu.children
@@ -71,11 +71,11 @@ if (disabledLanguages.includes(lang)) {
                   }`}
                 >
                   {menu.name}
-                  <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
+                  <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20">
                     <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
                   </svg>
                 </span>
-                <ul class="nav-dropdown-list hidden group-hover:block lg:invisible lg:absolute lg:block lg:opacity-0 lg:group-hover:visible lg:group-hover:opacity-100">
+                <ul class="hidden nav-dropdown-list group-hover:block lg:invisible lg:absolute lg:block lg:opacity-0 lg:group-hover:visible lg:group-hover:opacity-100">
                   {menu.children?.map((child: any) => (
                     <li class="nav-dropdown-item">
                       <a
@@ -109,7 +109,7 @@ if (disabledLanguages.includes(lang)) {
       {/* Navigation button */}
       {
         navigation_button.enable && (
-          <li class="mt-4 inline-block lg:hidden">
+          <li class="inline-block mt-4 lg:hidden">
             <a
               class="btn btn-outline-primary btn-sm"
               href={navigation_button.link}
@@ -121,12 +121,12 @@ if (disabledLanguages.includes(lang)) {
       }
     </ul>
 
-    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+    <div class="flex items-center order-1 ml-auto md:order-2 lg:ml-0">
       {/* Search button */}
       {
         settings.search && (
           <button
-            class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
+            class="inline-block pr-5 mr-5 text-xl border-r border-border text-dark hover:text-primary dark:border-darkmode-border dark:text-white dark:hover:text-darkmode-primary"
             aria-label="search"
             data-search-trigger
           >
@@ -139,18 +139,6 @@ if (disabledLanguages.includes(lang)) {
 
       {/* Language switcher */}
       <LanguageSwitcher client:load lang={lang} pathname={pathname} />
-
-      {/* Navigation button */}
-      {
-        navigation_button.enable && (
-          <a
-            class="btn btn-outline-primary btn-sm hidden lg:inline-block"
-            href={navigation_button.link}
-          >
-            {get_started}
-          </a>
-        )
-      }
     </div>
   </nav>
 </header>

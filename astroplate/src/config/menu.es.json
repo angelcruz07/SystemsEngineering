@@ -1,24 +1,12 @@
 {
   "main": [
     { "name": "Inicio", "url": "/" },
-    { "name": "Acerca del sitio", "url": "/about" },
-    { "name": "Elementos", "url": "/elements" },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        { "name": "Contact", "url": "/contact" },
-        { "name": "Blog", "url": "/blog" },
-        { "name": "Auteurs", "url": "/authors" },
-        { "name": "Catégories", "url": "/categories" },
-        { "name": "Étiquettes", "url": "/tags" },
-        { "name": "Page 404", "url": "/404" }
-      ]
-    }
+    { "name": "Sobre mi", "url": "/about" },
+    { "name": "Blog", "url": "/blog" },
+    { "name": "Elementos", "url": "/elements" }
   ],
   "footer": [
-    { "name": "Éléments", "url": "/elements" },
-    { "name": "Politique de confidentialité", "url": "/privacy-policy" }
+    { "name": "Elementos", "url": "/elements" },
+    { "name": "Politicas de privacidad", "url": "/privacy-policy" }
   ]
 }

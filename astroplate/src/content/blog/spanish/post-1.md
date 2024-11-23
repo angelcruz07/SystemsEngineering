@@ -1,23 +1,23 @@
 ---
-title: "Comment créer une application avec des technologies modernes"
+title: "Arquitectura de computadoras"
 meta_title: ""
-description: "Ceci est une méta-description"
-date: 2022-04-04T05:00:00Z
+description: "Una introducción a la arquitectura de computadoras y conocimientos basicos en informática"
+date: 2024-11-23T11:45:00Z
 image: "/images/image-placeholder.png"
-categories: ["french","Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind", "react"]
+categories: ["spanish", "Application", "Data"]
+author: "Angel Cruz"
+tags: ["hardware", "software"]
 draft: false
 ---
 
-Personne ne veut même sortir un maquillage de l'urne des soins empoisonnés. C'était un week-end. Je suis un footballeur complet. Pour boire, le lac occupe le plus grand porche. Chacune des cibles de la vie ne flatte pas Euismod.
+# Introducción
 
-L'entreprise elle-même est une entreprise très prospère. Personne ne prend même la peine de l'ouvrir. Alors je vais ouvrir la naissance pour choisir ? Être rejeté par certaines personnes est un choix commode du présent pour ressentir une douleur comme la sienne !
+El titulo "aquitectura de computadoras" es
+demasiado general para introducir a la materia.
+Sin embargo, lo más importante a destacar
+es que conoceras conceptos basicos de informática
+que son necesarios si deseas profundizar en este mundo. Desde aprender que es un byte, hasta como
+es la estructura interna de una computadora.
 
-## Design Créatif
-
-Car en guise de maquillage, l'urne du poison C'était un week-end. Je suis un footballeur complet. Pour boire, le lac occupe le plus grand porche. Chacune des cibles de la vie ne flatte pas Euismod.
-
-> Le client lui-même doit pouvoir poursuivre l'adipisicing. Personne ne prend même la peine de l'ouvrir. Alors je vais ouvrir la naissance pour choisir ? Être rejeté par certaines personnes est un choix commode du présent pour ressentir une douleur comme la sienne !
-
-L'entreprise elle-même est une entreprise très prospère. Personne ne prend même la peine de l'ouvrir. Alors je vais ouvrir la naissance pour choisir ? Être rejeté par certaines personnes est un choix commode du présent pour ressentir une douleur comme la sienne !
+Para continuar es importante plantearnos,
+¿Qué es una computadora?

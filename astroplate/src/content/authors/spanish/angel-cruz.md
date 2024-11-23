@@ -1,12 +1,12 @@
 ---
-title: Guillaume Jacob
-email: williamjacob@email.com
+title: Angel Cruz
+email: angelcruzsanchez126@email.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
   - name: github
     icon: FaGithub
-    link: https://github.com
+    link: https://github.com/angelcruz07
 
   - name: twitter
     icon: FaTwitter

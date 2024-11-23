@@ -1,5 +1,5 @@
 ---
-title: "Articles de blog"
+title: "Artículos del blog"
 meta_title: ""
-description: "Ceci est une méta-description"
+description: "Blog de ingeniería en sistemas"
 ---
