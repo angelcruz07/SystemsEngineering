@@ -1,8 +1,8 @@
 {
   "main": [
-    { "name": "Accueil", "url": "/" },
-    { "name": "À propos", "url": "/about" },
-    { "name": "Éléments", "url": "/elements" },
+    { "name": "Inicio", "url": "/" },
+    { "name": "Acerca del sitio", "url": "/about" },
+    { "name": "Elementos", "url": "/elements" },
     {
       "name": "Pages",
       "url": "",

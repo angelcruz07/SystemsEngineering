@@ -3,12 +3,12 @@
 banner:
   title: "Ingeniería en sistemas computacionales"
   content: "Hola!, Soy un estudiantes de ingeniería en sistemas comptutacionales
-  y e creado este sitio web para compartir mis apuntes y proyectos de la carrera."
+  y e creado este sitio web para compartir mis apuntes,proyectos de la carrera y conocimientos que considero importantes para un futuro ingeníero en sistemas computacionales."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Commencer gratuitement"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "Comenzar a leer"
+    link: "/blog"
 
 # Features
 features:
@@ -18,18 +18,16 @@ features:
     bulletpoints:
       - "Información utíl"
       - "Temas de ingeniería"
-      - "Construit avec Astro et TailwindCSS pour un style facile et personnalisable"
-      - "Entièrement responsive sur tous les appareils"
-      - "Optimisé pour le référencement pour de meilleurs classements dans les moteurs de recherche"
-      - "**Open-source et gratuit** pour une utilisation personnelle et commerciale"
+      - "Información gratuita y accesible"
     button:
       enable: false
-      label: "Commencer maintenant"
+      label: "Explorar sitio"
       link: "#"
 
-  - title: "Découvrez les fonctionnalités clés d'Astro"
+  - title: "¿Qué encontraras?"
     image: "/images/service-2.png"
-    content: "Astro est un framework web tout-en-un pour construire des sites web rapides et centrés sur le contenu. Il offre une gamme de fonctionnalités excitantes pour les développeurs et les créateurs de sites web. Certaines des fonctionnalités clés sont :"
+    content: "Un sitio web organizado con temario de la ingeniería en sistemas, con información concreta que
+    es de utilidad para estudiantes aspirantes a la carrera"
     bulletpoints:
       - "Zéro JS, par défaut : Aucun surcoût d'exécution JavaScript pour vous ralentir."
       - "Personnalisable : Tailwind, MDX et plus de 100 autres intégrations au choix."
