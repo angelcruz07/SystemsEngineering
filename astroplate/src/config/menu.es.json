@@ -1,0 +1,12 @@
+{
+  "main": [
+    { "name": "Inicio", "url": "/" },
+    { "name": "Sobre mi", "url": "/about" },
+    { "name": "Blog", "url": "/blog" },
+    { "name": "Elementos", "url": "/elements" }
+  ],
+  "footer": [
+    { "name": "Elementos", "url": "/elements" },
+    { "name": "Politicas de privacidad", "url": "/privacy-policy" }
+  ]
+}

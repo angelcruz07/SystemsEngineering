@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "Computer Systems Enginnering",
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -20,14 +20,14 @@
     "pagination": 2,
     "summary_length": 200,
     "blog_folder": "blog",
-    "default_language": "en",
+    "default_language": "es",
     "disable_languages": [],
     "default_language_in_subdir": false
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Developed by [AngelDev](https://angeldev.me)"
   },
 
   "navigation_button": {
