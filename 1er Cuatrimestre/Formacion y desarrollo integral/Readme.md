@@ -1,1 +1,0 @@
-# Formacion y desarrollo integral
